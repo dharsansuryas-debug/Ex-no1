@@ -61,12 +61,14 @@ END
 |         1200                    |
 
 #### Manual Calculations
+<img width="1307" height="1086" alt="image" src="https://github.com/user-attachments/assets/7a502652-6561-4f28-bad5-14431e0099de" />
 
 (Add your calculation here)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="650" height="452" alt="image" src="https://github.com/user-attachments/assets/2d0d77ad-05fa-4c79-b071-68d6f6d1d63d" />
 
 ## 2. SUBTRACTION
 
@@ -112,6 +114,12 @@ END
 |                         |                          |
 
 #### Manual Calculations
+<img width="1600" height="868" alt="WhatsApp Image 2026-05-14 at 10 14 27" src="https://github.com/user-attachments/assets/f57f5046-a989-45af-b2c9-641ae53bb1e9" />
+<img width="1430" height="453" alt="image" src="https://github.com/user-attachments/assets/372af4a4-98f5-4a6a-8c3d-e73f5fb1af60" />
+
+
+
+
 
 (Add your calculation here)
 
@@ -119,6 +127,11 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+00
+<img width="648" height="433" alt="image" src="https://github.com/user-attachments/assets/6182c465-c865-4898-850a-2357311c0f86" />
+
+
+
 
 ## 3. MULTIPLICATION
 
@@ -161,8 +174,12 @@ END
 |                         |                          |
 
 #### Manual Calculations
+<img width="1600" height="1139" alt="WhatsApp Image 2026-05-14 at 10 15 27" src="https://github.com/user-attachments/assets/93fb5c6e-ed1f-40db-a891-5721d1e46655" />
+
 
 (Add your calculation here)
+<img width="641" height="426" alt="image" src="https://github.com/user-attachments/assets/bdbc19dc-bc86-47f1-8aac-628878fff6ee" />
+
 
 ---
 
@@ -206,6 +223,7 @@ END
 |                         |                          |
 
 #### Manual Calculations
+<img width="1600" height="1338" alt="image" src="https://github.com/user-attachments/assets/d2c5e005-dd89-4e48-9ef9-26e5cff52b74" />
 
 (Add your calculation here)
 
@@ -213,6 +231,7 @@ END
 ## OUTPUT FROM MASM SOFTWARE
 
 
+<img width="643" height="430" alt="image" src="https://github.com/user-attachments/assets/a870b818-9d52-4fa5-961b-2f545b06b8fb" />
 
 ## RESULT
 
